@@ -11,16 +11,6 @@ A powerful PowerShell GUI tool for managing user profiles on Windows domain comp
 
 ---
 
-## 📋 Description
-
-**Short version (150 chars):**  
-Advanced GUI tool to manage Windows user profiles with AD integration, orphaned profile detection, and bulk deletion capabilities.
-
-**Medium version (350 chars):**  
-Windows Domain Profile Manager is a PowerShell GUI application designed for system administrators to efficiently manage user profiles across domain computers. Features include real-time profile analysis, automatic orphaned profile detection, Active Directory integration, smart filtering options, and parallel bulk deletion. Perfect for cleaning up domain workstations remotely or locally.
-
----
-
 ## ✨ Key Features
 
 ### 🔍 **Profile Analysis**
