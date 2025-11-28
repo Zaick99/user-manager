@@ -1,5 +1,5 @@
 
-<img width="1536" height="1024" alt="user-manager" src="https://github.com/user-attachments/assets/f80a5312-aec7-4625-bc77-881ae90fc435" />
+<img width="1536" height="1024" alt="user-manager" src="https://github.com/user-attachments/assets/23de586d-6c36-495f-85a6-ee54243225ae" />
 
 # 🖥️ Windows Domain Profile Manager
 
@@ -114,8 +114,7 @@ Enter-PSSession -ComputerName "PC-NAME" -Credential (Get-Credential)
 
 ### **Main Window Overview**
 
-<img width="1386" height="793" alt="user-manager-preview" src="https://github.com/user-attachments/assets/0996ac17-e01d-4849-8f29-650f4499c799" />
-
+<img width="1386" height="793" alt="user-manager-preview" src="https://github.com/user-attachments/assets/4cee1dd3-9719-41ee-9854-77775d558144" />
 
 ### **Step-by-Step Guide**
 
